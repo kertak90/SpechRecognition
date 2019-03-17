@@ -1,0 +1,80 @@
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\ГОЛОСОВОК УПАРВЛЕНИЕ\Голосовое управление\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.2\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.3\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\bin\Debug\NAudio.dll
+D:\C# projects\SpechRecognition_v0.4\SpechRecognitionConsole\bin\Debug\NAudio.xml
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\bin\Debug\NAudio.dll
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\bin\Debug\NAudio.xml
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.5\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\NAudio.dll
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\NAudio.xml
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+C:\Users\Администратор\YandexDisk-kertak@yandex.ru\программирование\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe.config
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\Microsoft.Speech.dll
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\NAudio.dll
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\bin\Debug\NAudio.xml
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CoreCompileInputs.cache
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csproj.CopyComplete
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.exe
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.pdb
+D:\C# projects\SpechRecognition_v0.6\SpechRecognitionConsole\obj\Debug\SpechRecognitionConsole.csprojAssemblyReference.cache
